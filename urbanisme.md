@@ -16,5 +16,5 @@ L'IGN met par ailleurs à disposition un outil en ligne permettant de comparer l
 
 ![carte2](img/carte2.jpg)
 
-*Carte des infrastructures et de l'occupation des sols de la commune en 2018.*
+>Carte des infrastructures et de l'occupation des sols de la commune en 2018.
 

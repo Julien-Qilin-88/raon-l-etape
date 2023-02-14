@@ -13,16 +13,14 @@ Dès le xvie siècle, le granite et le trapp ont été utilisés pour les besoin
 
 ![abattage](img/abbatage.jpg)
 
-*Carrière de trapp.
+>Carrière de trapp.
 Abattage du trapp (fonds photographique Ad. Weick).
 Abattage du trapp
-(fonds photographique Ad. Weick).*
+(fonds photographique Ad. Weick).
 
 ![plan](img/plan.jpg)
 
-*Plans inclinés d'extraction. Garage des wagonnets (fonds photographique Ad. Weick).
-Plans inclinés d'extraction. Garage des wagonnets
-(fonds photographique Ad. Weick).*
+>Plans inclinés d'extraction. Garage des wagonnets (fonds photographique Ad. Weick).
 
 La commune se trouve dans une zone de sismicité faible.
 
@@ -40,7 +38,7 @@ Le barrage de Vieux Pré complète le réseau hydrographique.
 
 ![carte](img/carte.jpg)
 
-*Réseaux hydrographique et routier de Raon-l'Étape*
+>Réseaux hydrographique et routier de Raon-l'Étape
 
 La qualité des eaux de baignade et des cours d’eau peut être consultée sur un site dédié géré par les agences de l’eau et l’Agence française pour la biodiversité.
 
